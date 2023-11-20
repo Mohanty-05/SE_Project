@@ -1,9 +1,7 @@
 ## Contributors' List
 
 - Prachi Mohanty
-- [Your Name](https://github.com/yourGithubUsername)
-- [Your Name](https://github.com/yourGithubUsername)
-- [Your Name](https://github.com/yourGithubUsername)
-- [Your Name](https://github.com/yourGithubUsername)
-- [Your Name](https://github.com/yourGithubUsername)
-- [Your Name](https://github.com/yourGithubUsername)
+- Rahul Kumar
+- Mithila Das
+- Asif Shuvro
+- Muhit Khan
